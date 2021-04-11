@@ -28,6 +28,7 @@ php decode *path_file_to_decode* *path_file_destination_and_name*
 ## Authors
 
 Fabio Machado   [Linkedin](https://www.linkedin.com/in/fabio-aires-machado/)
+Théo Bouley   [Linkedin](https://www.linkedin.com/in/th%C3%A9o-bouley-b3b5691b5/)
 
 ## Version History
 
