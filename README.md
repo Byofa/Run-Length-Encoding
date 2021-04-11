@@ -37,5 +37,5 @@ Théo Bouley   [Linkedin](https://www.linkedin.com/in/th%C3%A9o-bouley-b3b5691b5
 
 ## License
 
-This project is an opensource, read the CGV of ETNA school Paris.
+This project is an opensource, read the CGV of [ETNA](https://etna.io/) school Paris.
 
